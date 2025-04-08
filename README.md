@@ -5,4 +5,4 @@ I'm Yann!
  - I'm the creator and maintainer of the Godot plugin 🔍 [Signal Lens](https://godotengine.org/asset-library/asset/3620)
  - I share a lot about what I'm doing on 💙 [Bluesky](https://bsky.app/profile/yann-lemos.bsky.social)
  - Offering dedicated support for my tools and game development mentorships on 📝 [Patreon](https://www.patreon.com/yannlemos_)
- - Full portfolio on 🌐 https://yannlemos.com/
+ - Learn more on 🌐 https://yannlemos.com/
